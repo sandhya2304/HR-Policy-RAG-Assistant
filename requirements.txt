@@ -1,5 +1,7 @@
 python-dotenv
 
+
+# framework/technology for ai agents
 langchain
 langchain-core
 langchain-community
